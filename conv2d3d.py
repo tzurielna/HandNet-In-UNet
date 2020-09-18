@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 
-dir = 'RealTrainData/TrainData/'
+dir = 'TrainData/'
 
 
 class Conv2d3d:
